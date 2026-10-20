@@ -1,0 +1,12 @@
+# 虚拟环境，禁止上传
+venv/
+*.pyc
+__pycache__/
+
+# sqlite数据库不要上传
+instance/
+*.db
+
+# CI生成报告文件
+*.json
+*.txt
