@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+  imagemagick:
+    image: vulhub/imagemagick:7.1.0-50
+    ports:
+      - "8080:80"
+    volumes:
+      - ./:/app
+    working_dir: /app
+    command: python3 app.py
