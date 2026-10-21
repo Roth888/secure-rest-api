@@ -4,9 +4,10 @@
 Develop secure REST API with OWASP Top‑10 protections, integrate SAST/SCA into GitHub Actions CI/CD. Reproduce, analyse and remediate CVE‑2022‑44268 in Vulhub isolated environment.
 
 Repository URL: https://github.com/Roth888/secure-rest-api
+
 CI successful run link: https://github.com/Roth888/secure-rest-api/actions/runs/39364923789
 
-## 1 Project & API endpoints
+## Project & API endpoints
 Tech stack: Python3, Flask, Flask‑SQLAlchemy, JWT‑Extended, bcrypt, SQLite
 
 1. `POST /auth/login`
