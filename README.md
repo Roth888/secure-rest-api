@@ -1,5 +1,4 @@
 # Secure REST API Development with CI/CD and Real CVE Vulnerability Analysis
-Repository URL: https://github.com/Roth888/secure-rest-api
 Last successful CI pipeline run: https://github.com/Roth888/secure-rest-api/actions/runs/39364923789
 
 ## Purpose
